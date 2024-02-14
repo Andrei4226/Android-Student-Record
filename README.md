@@ -1,6 +1,7 @@
-# AndroidStudentRecordApp
+# Android Student Record App
 
-This app is an Android application that allows managing and recording details about students or users. This application utilizes a visual list to display information about each student or user, including name, age, email address, integration status, as well as scholarship type.
+This app is an Android application (it was created in Android Studio) that allows managing and recording details about students or users.
+This application utilizes a visual list to display information about each student or user, including name, age, email address, integration status, as well as scholarship type.
 
 ## Key Features
 
