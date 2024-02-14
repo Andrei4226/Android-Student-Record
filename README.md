@@ -15,7 +15,7 @@ This application utilizes a visual list to display information about each studen
 
 To use this application, follow the steps below:
 
-1. Download and install the application on Android Studio or any other compatible IDE.
+1. Download and run the application on Android Studio or any other compatible IDE.
 2. Open the application and explore the list of users or students.
 3. To add a new student or user, press the "Add" button and fill in the necessary details.
 4. Utilize the toolbar menu to access sorting options and organize the list based on your preferences.
