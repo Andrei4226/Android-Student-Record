@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/listUnordered"
+        android:title="Reset the list" />
+    <item
+        android:id="@+id/list_A_Z"
+        android:title="Sort A-Z" />
+    <item
+        android:id="@+id/list_Z_A"
+        android:title="Sort Z-A" />
+    <item
+        android:id="@+id/listusersolder21"
+        android:title="Users over 21 years old" />
+</menu>
